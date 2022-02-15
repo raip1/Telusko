@@ -6,5 +6,9 @@ Kheer
 Pasta
 Chicken
 
+beans
+momo
+Pizza
+
 Thank you. 
 
